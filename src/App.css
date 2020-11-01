@@ -1,0 +1,27 @@
+.app {
+  background-color: #256496;
+  background-image: linear-gradient(to right, rgb(21, 101, 192), #256496, rgb(21, 101, 192) );
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.drop-area {
+  width: 70%;
+  height: 400px;
+  background-color: white;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+h1 {
+  font-weight: 400;
+  text-align: center;
+  color: gray;
+  font-size: x-large;
+}
+
