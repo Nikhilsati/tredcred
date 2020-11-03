@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tred-cred/static/css/main.eeeac593.chunk.css",
+    "main.js": "/tred-cred/static/js/main.9f35f533.chunk.js",
+    "main.js.map": "/tred-cred/static/js/main.9f35f533.chunk.js.map",
+    "runtime-main.js": "/tred-cred/static/js/runtime-main.30b747ab.js",
+    "runtime-main.js.map": "/tred-cred/static/js/runtime-main.30b747ab.js.map",
+    "static/js/2.3315eb30.chunk.js": "/tred-cred/static/js/2.3315eb30.chunk.js",
+    "static/js/2.3315eb30.chunk.js.map": "/tred-cred/static/js/2.3315eb30.chunk.js.map",
+    "static/js/3.c6d71ba0.chunk.js": "/tred-cred/static/js/3.c6d71ba0.chunk.js",
+    "static/js/3.c6d71ba0.chunk.js.map": "/tred-cred/static/js/3.c6d71ba0.chunk.js.map",
+    "index.html": "/tred-cred/index.html",
+    "static/css/main.eeeac593.chunk.css.map": "/tred-cred/static/css/main.eeeac593.chunk.css.map",
+    "static/js/2.3315eb30.chunk.js.LICENSE.txt": "/tred-cred/static/js/2.3315eb30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30b747ab.js",
+    "static/js/2.3315eb30.chunk.js",
+    "static/css/main.eeeac593.chunk.css",
+    "static/js/main.9f35f533.chunk.js"
+  ]
+}
